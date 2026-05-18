@@ -36,3 +36,144 @@ Current package:
 
 ```text
 blockforge-wp-early-access-0.1.0-rc1.zip
+```
+
+Early Access price:
+
+```text
+€49
+```
+
+This Early Access version is intended for developers who want to evaluate the framework early, use it in controlled projects, and follow the product as it evolves toward the first stable version.
+
+## What is included in Early Access?
+
+The commercial Early Access package includes:
+
+- A reusable parent WordPress block theme.
+- A reference project theme.
+- Companion project plugins.
+- Demo content package.
+- Installation documentation.
+- Product overview documentation.
+- Release notes.
+- Package validation information.
+- Checksums for release verification.
+
+The package is designed to show both the reusable framework layer and a practical reference implementation.
+
+## How the product is delivered
+
+BlockForge WP is sold and delivered as a commercial digital product through Lemon Squeezy.
+
+Store URL:
+
+```text
+https://blockforgewp.lemonsqueezy.com
+```
+
+After purchase, customers receive access to the commercial ZIP package and the included documentation.
+
+This public GitHub repository does not contain the commercial ZIP package, the private source repositories, or the full internal development files.
+
+## Purpose of this public repository
+
+This repository is a public introduction and initial documentation page for BlockForge WP.
+
+It exists to:
+
+- Explain what BlockForge WP is.
+- Provide a public product reference.
+- Help customers understand the Early Access offer.
+- Document the general product direction.
+- Provide an official public contact point.
+- Link to the Lemon Squeezy store.
+
+This repository is not the full product repository and is not intended to be a complete open source distribution of BlockForge WP.
+
+## What is not included in this public repository
+
+This public repository does not include:
+
+- The commercial BlockForge WP ZIP package.
+- The private parent theme source repository.
+- The private reference project source repository.
+- Internal release scripts.
+- Development environment files.
+- Private roadmap notes.
+- Customer-only documentation.
+- License keys, secrets, credentials, or financial information.
+- Any files intended only for paid customers.
+
+The commercial package is distributed through Lemon Squeezy.
+
+## Support
+
+Early Access customers receive 30 days of basic support after purchase.
+
+Basic support includes help with:
+
+- Package access.
+- Installation questions.
+- Clarification about included files.
+- Basic setup guidance.
+- Reporting issues related to the Early Access package.
+
+Support does not include custom client project development, custom feature implementation, third-party plugin debugging, hosting configuration, or ongoing consulting work.
+
+Contact:
+
+```text
+blockforgewp@gmail.com
+```
+
+## Updates
+
+Early Access customers receive access to updates during the 0.x release cycle and access to the first stable v1.0.0 release.
+
+This includes:
+
+- Future 0.x improvements.
+- Bug fixes related to the Early Access package.
+- Documentation improvements.
+- The first v1.0.0 stable release when available.
+
+The update policy may be expanded in the future as BlockForge WP moves beyond Early Access.
+
+## License and commercial usage
+
+BlockForge WP is built for WordPress and is intended to follow GPL-compatible licensing requirements for WordPress-related code where applicable.
+
+However, BlockForge WP is also a commercial product.
+
+The BlockForge WP name, brand, logo, paid documentation, commercial packaging, demo materials, private repositories, and distribution assets are not provided for resale as a competing product.
+
+Customers may use the package as a foundation for their own WordPress projects and client work, but they may not repackage, resell, or redistribute BlockForge WP itself as a competing starter framework, theme package, or commercial product.
+
+Full license details are provided with the commercial package.
+
+## Current status
+
+BlockForge WP is currently in Early Access.
+
+The current release is:
+
+```text
+v0.1.0-rc1
+```
+
+This release has been packaged and validated locally before publication.
+
+## Contact
+
+For questions, support, or Early Access information:
+
+```text
+blockforgewp@gmail.com
+```
+
+Official store:
+
+```text
+https://blockforgewp.lemonsqueezy.com
+```
