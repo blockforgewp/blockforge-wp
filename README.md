@@ -6,13 +6,15 @@ BlockForge WP is a commercial WordPress starter framework created to help develo
 
 It is focused on modern WordPress development, block themes, Gutenberg workflows, editor parity, project structure, documentation, and safe upgrade practices.
 
+This public repository is used as the official public product page for BlockForge WP. The commercial package is delivered separately through Lemon Squeezy after purchase.
+
 ## What is BlockForge WP?
 
 BlockForge WP is not a marketplace theme and it is not a finished visual template for a single niche.
 
 It is a professional starter framework for building WordPress projects with a reusable base architecture.
 
-The product is designed to provide a structured starting point for modern WordPress development, including a parent block theme, a reference project implementation, companion plugins, demo content, and practical documentation.
+The product is designed to provide a structured starting point for modern WordPress development, including a reusable base WordPress block theme, a reference project implementation, companion plugins, demo content, and practical documentation.
 
 The goal is to reduce repetitive setup work, improve consistency between projects, and help developers maintain a cleaner separation between reusable framework code and project-specific customization.
 
@@ -41,7 +43,7 @@ blockforge-wp-early-access-0.1.0-rc1.zip
 Early Access price:
 
 ```text
-€49
+€49 one-time payment
 ```
 
 This Early Access version is intended for developers who want to evaluate the framework early, use it in controlled projects, and follow the product as it evolves toward the first stable version.
@@ -65,6 +67,7 @@ The package is designed to show both the reusable framework layer and a practica
 ## How the product is delivered
 
 BlockForge WP is sold and delivered as a commercial digital product through Lemon Squeezy.
+Customers pay once for the Early Access package. After purchase, they receive access to the commercial ZIP package and the included documentation through Lemon Squeezy.
 
 Store URL:
 
@@ -144,11 +147,9 @@ The update policy may be expanded in the future as BlockForge WP moves beyond Ea
 
 BlockForge WP is built for WordPress and is intended to follow GPL-compatible licensing requirements for WordPress-related code where applicable.
 
-However, BlockForge WP is also a commercial product.
+Customers may use and adapt the included WordPress code as a foundation for their own WordPress projects and client work, according to the license terms included with the commercial package.
 
-The BlockForge WP name, brand, logo, paid documentation, commercial packaging, demo materials, private repositories, and distribution assets are not provided for resale as a competing product.
-
-Customers may use the package as a foundation for their own WordPress projects and client work, but they may not repackage, resell, or redistribute BlockForge WP itself as a competing starter framework, theme package, or commercial product.
+BlockForge WP is also a commercial product. The BlockForge WP name, brand, logo, paid documentation, commercial packaging, customer-only distribution assets, private repositories, support access, license keys, and commercial materials may not be reused, repackaged, or resold as a competing product.
 
 Full license details are provided with the commercial package.
 
