@@ -52,7 +52,7 @@ This Early Access version is intended for developers who want to evaluate the fr
 
 The commercial Early Access package includes:
 
-- A reusable parent WordPress block theme.
+- A reusable base WordPress block theme.
 - A reference project theme.
 - Companion project plugins.
 - Demo content package.
