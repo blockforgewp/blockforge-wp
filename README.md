@@ -8,6 +8,16 @@ It is focused on modern WordPress development, block themes, Gutenberg workflows
 
 This public repository is used as the official public product page for BlockForge WP. The commercial package is delivered separately through Lemon Squeezy after purchase.
 
+## Quick summary
+
+- Product: Commercial WordPress starter framework.
+- Audience: Developers, freelancers, and small agencies.
+- Current status: Early Access.
+- Current release: v0.1.0-rc1.
+- Price: €49.
+- Delivery: Commercial ZIP package delivered through Lemon Squeezy.
+- Public repository purpose: Product introduction and initial documentation only
+
 ## What is BlockForge WP?
 
 BlockForge WP is not a marketplace theme and it is not a finished visual template for a single niche.
