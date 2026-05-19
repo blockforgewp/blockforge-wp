@@ -72,8 +72,7 @@ The package is designed to show both the reusable framework layer and a practica
 
 ## How the product is delivered
 
-BlockForge WP is sold and delivered as a commercial digital product through Lemon Squeezy.
-Customers pay once for the Early Access package. After purchase, they receive access to the commercial ZIP package and the included documentation through Lemon Squeezy.
+BlockForge WP is prepared to be sold and delivered as a commercial digital product through Lemon Squeezy.
 
 Store URL:
 
@@ -81,7 +80,7 @@ Store URL:
 https://blockforgewp.lemonsqueezy.com
 ```
 
-After purchase, customers receive access to the commercial ZIP package and the included documentation.
+Once the store is approved and the product is available, customers will receive access to the commercial ZIP package and the included documentation after purchase.
 
 This public GitHub repository does not contain the commercial ZIP package, the private source repositories, or the full internal development files.
 
@@ -171,7 +170,7 @@ The current release is:
 v0.1.0-rc1
 ```
 
-This release has been packaged and validated locally before publication.
+This release has been packaged and validated locally for commercial Early Access delivery.
 
 ## Contact
 
