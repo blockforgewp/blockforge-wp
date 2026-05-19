@@ -40,23 +40,19 @@ BlockForge WP is intended for:
 
 It is especially useful for people who want to move beyond ad hoc theme setup and start projects with a more consistent technical foundation.
 
-## Early Access
+## Early Access notice
 
-The current release is an Early Access version of BlockForge WP.
+BlockForge WP is currently available as an Early Access commercial product.
 
-Current package:
+The current Early Access release is intended for developers, freelancers, and small agencies who understand WordPress development workflows and want to evaluate the framework before the first stable v1.0.0 release.
 
-```text
-blockforge-wp-early-access-0.1.0-rc1.zip
-```
+Early Access means that the product is already packaged and documented, but some APIs, internal structure, documentation, and project conventions may still evolve before the stable release.
 
-Early Access price:
+Current release: `v0.1.0-rc1`
 
-```text
-€49 one-time payment
-```
+Current package: `blockforge-wp-early-access-0.1.0-rc1.zip`
 
-This Early Access version is intended for developers who want to evaluate the framework early, use it in controlled projects, and follow the product as it evolves toward the first stable version.
+Early Access price: `€49 one-time payment`
 
 ## What is included in Early Access?
 
