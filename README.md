@@ -16,7 +16,7 @@ This public repository is used as the official public product page for BlockForg
 - Current release: v0.1.0-rc1.
 - Price: €49 one-time payment.
 - Delivery: Commercial ZIP package delivered through Lemon Squeezy.
-- Public repository purpose: Product introduction and initial documentation only
+- Public repository purpose: Product introduction and initial documentation only.
 
 ## What is BlockForge WP?
 
@@ -82,7 +82,7 @@ https://blockforgewp.lemonsqueezy.com
 
 Once the store is approved and the product is available, customers will receive access to the commercial ZIP package and the included documentation after purchase.
 
-This public GitHub repository does not contain the commercial ZIP package, the private source repositories, or the full internal development files.
+This public GitHub repository does not contain the commercial ZIP package, private source repositories, or internal development files.
 
 ## Purpose of this public repository
 
@@ -104,8 +104,7 @@ This repository is not the full product repository and is not intended to be a c
 This public repository does not include:
 
 - The commercial BlockForge WP ZIP package.
-- The private parent theme source repository.
-- The private reference project source repository.
+- Private source repositories.
 - Internal release scripts.
 - Development environment files.
 - Private roadmap notes.
