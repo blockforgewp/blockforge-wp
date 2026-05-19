@@ -14,7 +14,7 @@ This public repository is used as the official public product page for BlockForg
 - Audience: Developers, freelancers, and small agencies.
 - Current status: Early Access.
 - Current release: v0.1.0-rc1.
-- Price: €49.
+- Price: €49 one-time payment.
 - Delivery: Commercial ZIP package delivered through Lemon Squeezy.
 - Public repository purpose: Product introduction and initial documentation only
 
@@ -151,11 +151,13 @@ The update policy may be expanded in the future as BlockForge WP moves beyond Ea
 
 ## License and commercial usage
 
-BlockForge WP is built for WordPress and is intended to follow GPL-compatible licensing requirements for WordPress-related code where applicable.
+BlockForge WP is built for WordPress and is intended to respect GPL-compatible licensing requirements for WordPress-related code where applicable.
 
-Customers may use and adapt the included WordPress code as a foundation for their own WordPress projects and client work, according to the license terms included with the commercial package.
+The WordPress-related code included in the commercial package may be used in WordPress projects according to the license terms provided with the package.
 
-BlockForge WP is also a commercial product. The BlockForge WP name, brand, logo, paid documentation, commercial packaging, customer-only distribution assets, private repositories, support access, license keys, and commercial materials may not be reused, repackaged, or resold as a competing product.
+However, BlockForge WP is also a commercial product and brand. The BlockForge WP name, logo, branding, paid documentation, commercial packaging, private repositories, demo materials, distribution assets, and customer-only resources are not provided for resale as a competing product.
+
+Customers may use BlockForge WP as a foundation for their own WordPress projects and client work. They may not present the BlockForge WP brand, paid package, documentation, or commercial distribution assets as their own competing starter framework, theme package, or commercial product.
 
 Full license details are provided with the commercial package.
 
