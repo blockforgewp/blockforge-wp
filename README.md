@@ -6,7 +6,7 @@ BlockForge WP is a commercial WordPress starter framework created to help develo
 
 It is focused on modern WordPress development, block themes, Gutenberg workflows, editor parity, project structure, documentation, and safe upgrade practices.
 
-This public repository is used as the official public product page for BlockForge WP. The commercial package is delivered separately through Lemon Squeezy after purchase.
+This public repository is used as the official public product page for BlockForge WP. The commercial package is prepared for delivery through Lemon Squeezy once the store is approved and final live-mode validation is complete.
 
 ## Quick summary
 
@@ -15,7 +15,8 @@ This public repository is used as the official public product page for BlockForg
 - Current status: Early Access.
 - Current release: v0.1.0-rc1.
 - Price: €49 one-time payment.
-- Delivery: Commercial ZIP package delivered through Lemon Squeezy.
+- Store status: Pending approval and final live-mode validation.
+- Delivery: Commercial ZIP package prepared for delivery through Lemon Squeezy.
 - Public repository purpose: Product introduction and initial documentation only.
 
 ## What is BlockForge WP?
@@ -74,7 +75,7 @@ The package is designed to show both the reusable framework layer and a practica
 
 BlockForge WP is prepared to be sold and delivered as a commercial digital product through Lemon Squeezy.
 
-Store URL:
+Store URL, pending approval:
 
 ```text
 https://blockforgewp.lemonsqueezy.com
@@ -112,7 +113,7 @@ This public repository does not include:
 - License keys, secrets, credentials, or financial information.
 - Any files intended only for paid customers.
 
-The commercial package is distributed through Lemon Squeezy.
+The commercial package will be distributed through Lemon Squeezy once the store is approved and the product is available.
 
 ## Support
 
@@ -169,7 +170,7 @@ The current release is:
 v0.1.0-rc1
 ```
 
-This release has been packaged and validated locally for commercial Early Access delivery.
+This release has been packaged and validated locally for commercial Early Access delivery. The Lemon Squeezy store is still pending approval and final live-mode validation.
 
 ## Contact
 
@@ -179,7 +180,7 @@ For questions, support, or Early Access information:
 blockforgewp@gmail.com
 ```
 
-Official store:
+Official store, pending approval:
 
 ```text
 https://blockforgewp.lemonsqueezy.com
