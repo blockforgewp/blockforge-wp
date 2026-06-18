@@ -6,17 +6,17 @@ BlockForge WP is a commercial WordPress starter framework created to help develo
 
 It is focused on modern WordPress development, block themes, Gutenberg workflows, editor parity, project structure, documentation, and safe upgrade practices.
 
-This public repository is used as the official public product page for BlockForge WP. The commercial package is prepared for delivery through Lemon Squeezy. The product is currently in pre-launch and is not being broadly promoted yet.
+This public repository is used as the official public product page for BlockForge WP. The commercial package is sold and delivered separately through Lemon Squeezy after purchase.
 
 ## Quick summary
 
 - Product: Commercial WordPress starter framework.
 - Audience: Developers, freelancers, and small agencies.
-- Current status: Early Access, pre-launch.
+- Current status: Early Access.
 - Current release: v0.1.0-rc1.
 - Price: €49 one-time payment, taxes may apply at checkout.
-- Store status: Live storefront and checkout validated.
-- Delivery: Commercial ZIP package prepared for delivery through Lemon Squeezy.
+- Store status: Live.
+- Delivery: Commercial ZIP package delivered through Lemon Squeezy after purchase.
 - Public repository purpose: Product introduction and initial documentation only.
 
 ## What is BlockForge WP?
@@ -43,7 +43,7 @@ It is especially useful for people who want to move beyond ad hoc theme setup an
 
 ## Early Access notice
 
-BlockForge WP is currently prepared as an Early Access commercial product.
+BlockForge WP is currently available as an Early Access commercial product.
 
 The current Early Access release is intended for developers, freelancers, and small agencies who understand WordPress development workflows and want to evaluate the framework before the first stable v1.0.0 release.
 
@@ -53,7 +53,7 @@ Current release: `v0.1.0-rc1`
 
 Current package: `blockforge-wp-early-access-0.1.0-rc1.zip`
 
-Early Access price: `€49 one-time payment, taxes may apply at checkout.`
+Early Access price: `€49 one-time payment, taxes may apply at checkout`
 
 ## What is included in Early Access?
 
@@ -73,7 +73,7 @@ The package is designed to show both the reusable framework layer and a practica
 
 ## How the product is delivered
 
-BlockForge WP is prepared to be sold and delivered as a commercial digital product through Lemon Squeezy.
+BlockForge WP is sold and delivered as a commercial digital product through Lemon Squeezy.
 
 Store URL:
 
@@ -81,7 +81,9 @@ Store URL:
 https://blockforgewp.lemonsqueezy.com
 ```
 
-Customers receive access to the commercial ZIP package and the included documentation after purchase.
+After purchase, customers receive access to the commercial ZIP package and the included documentation through Lemon Squeezy.
+
+Taxes may be applied at checkout depending on the customer's location and applicable tax rules.
 
 This public GitHub repository does not contain the commercial ZIP package, private source repositories, or internal development files.
 
@@ -96,7 +98,7 @@ It exists to:
 - Help customers understand the Early Access offer.
 - Document the general product direction.
 - Provide an official public contact point.
-- Link to the official Lemon Squeezy store.
+- Link to the Lemon Squeezy store.
 
 This repository is not the full product repository and is not intended to be a complete open source distribution of BlockForge WP.
 
@@ -162,7 +164,7 @@ Full license details are provided with the commercial package.
 
 ## Current status
 
-BlockForge WP is currently in Early Access and pre-launch.
+BlockForge WP is currently in Early Access.
 
 The current release is:
 
@@ -170,7 +172,7 @@ The current release is:
 v0.1.0-rc1
 ```
 
-This release has been packaged and validated locally for commercial Early Access delivery. The Lemon Squeezy storefront and checkout have been validated in live mode.
+This release has been packaged and validated locally for commercial Early Access delivery.
 
 ## Contact
 
