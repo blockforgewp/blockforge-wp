@@ -75,11 +75,11 @@ The package is designed to show both the reusable framework layer and a practica
 
 BlockForge WP is sold and delivered as a commercial digital product through Lemon Squeezy.
 
+:::writing{variant="document" id="58127"}
 Store URL:
 
-```text
-https://blockforgewp.lemonsqueezy.com
-```
+[https://blockforgewp.lemonsqueezy.com](https://blockforgewp.lemonsqueezy.com)
+:::
 
 After purchase, customers receive access to the commercial ZIP package and the included documentation through Lemon Squeezy.
 
@@ -133,9 +133,9 @@ Support does not include custom client project development, custom feature imple
 
 Contact:
 
-```text
-blockforgewp@gmail.com
-```
+:::writing{variant="document" id="73462"}
+[blockforgewp@gmail.com](mailto:blockforgewp@gmail.com)
+:::
 
 ## Updates
 
@@ -178,12 +178,12 @@ This release has been packaged and validated locally for commercial Early Access
 
 For questions, support, or Early Access information:
 
-```text
-blockforgewp@gmail.com
-```
+:::writing{variant="document" id="73462"}
+[blockforgewp@gmail.com](mailto:blockforgewp@gmail.com)
+:::
 
 Official store:
 
-```text
-https://blockforgewp.lemonsqueezy.com
-```
+:::writing{variant="document" id="29684"}
+[https://blockforgewp.lemonsqueezy.com](https://blockforgewp.lemonsqueezy.com)
+:::
