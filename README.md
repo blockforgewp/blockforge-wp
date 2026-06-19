@@ -76,7 +76,7 @@ The package is designed to show both the reusable framework layer and a practica
 BlockForge WP is sold and delivered as a commercial digital product through Lemon Squeezy.
 
 Store URL:
-[https://blockforgewp.lemonsqueezy.com](https://blockforgewp.lemonsqueezy.com)
+[https://store.blockforgewp.com](https://store.blockforgewp.com)
 
 After purchase, customers receive access to the commercial ZIP package and the included documentation through Lemon Squeezy.
 
