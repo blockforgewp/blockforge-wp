@@ -176,4 +176,4 @@ For questions, support, or Early Access information:
 
 
 Official store:
-[https://blockforgewp.lemonsqueezy.com](https://blockforgewp.lemonsqueezy.com)
+[https://store.blockforgewp.com](https://store.blockforgewp.com)
