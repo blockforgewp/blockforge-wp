@@ -14,7 +14,7 @@ This public repository is used as the official public product page for BlockForg
 - Audience: Developers, freelancers, and small agencies.
 - Current status: Early Access.
 - Current release: v0.1.0-rc1.
-- Price: €49 one-time payment, taxes may apply at checkout.
+- Price: $49 one-time payment, taxes may apply at checkout.
 - Store status: Live.
 - Delivery: Commercial ZIP package delivered through Lemon Squeezy after purchase.
 - Public repository purpose: Product introduction and initial documentation only.
@@ -53,7 +53,7 @@ Current release: `v0.1.0-rc1`
 
 Current package: `blockforge-wp-early-access-0.1.0-rc1.zip`
 
-Early Access price: `€49 one-time payment, taxes may apply at checkout`
+Early Access price: `$49 one-time payment, taxes may apply at checkout`
 
 ## What is included in Early Access?
 
