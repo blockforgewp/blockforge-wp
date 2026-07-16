@@ -129,7 +129,7 @@ Basic support includes help with:
 Support does not include custom client project development, custom feature implementation, third-party plugin debugging, hosting configuration, or ongoing consulting work.
 
 Contact:
-[blockforgewp@gmail.com](mailto:blockforgewp@gmail.com)
+[support@blockforgewp.com](mailto:support@blockforgewp.com)
 
 
 ## Updates
@@ -172,7 +172,7 @@ This release has been packaged and validated locally for commercial Early Access
 ## Contact
 
 For questions, support, or Early Access information:
-[blockforgewp@gmail.com](mailto:blockforgewp@gmail.com)
+[support@blockforgewp.com](mailto:support@blockforgewp.com)
 
 
 Official store:
